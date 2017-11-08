@@ -2,7 +2,7 @@
 title: Free software to save the world
 #date:
 #description:
-tags: ['free' 'software' 'foss' 'ethics']
+tags: [ 'free', 'software', 'foss', 'ethics' ]
 draft: true
 ---
 
