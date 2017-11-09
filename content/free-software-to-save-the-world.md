@@ -138,7 +138,7 @@ And both when I'm working on free software as my paid job and when I'm doing it
 on my free time, reading this kind of messages always warm my heart at a point
 I can't describe:
 
-![](/matrix-dendrite-feeback.png)
+![](/images/matrix-dendrite-feeback.png)
 
 And while this culture of freedom, respect and transparency towards the user can
 be a constraint to some projects, some others are built from it. Having these
