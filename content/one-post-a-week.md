@@ -2,6 +2,7 @@
 title: One post a week
 description: When I was at BreizhCamp, a 3-day long tech conference in the West of France that happened a couple of weeks ago, I attended a talk that gave me the idea to share each week on this blog some new stuff I learned on the way.
 tags: [ 'blog', 'post', 'week', 'introduction' ]
+publishDate: 14/04/2018
 draft: false
 ---
 
