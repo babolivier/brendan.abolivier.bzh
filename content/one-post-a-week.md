@@ -2,7 +2,7 @@
 title: One post a week
 description: When I was at BreizhCamp, a 3-day long tech conference in the West of France that happened a couple of weeks ago, I attended a talk that gave me the idea to share each week on this blog some new stuff I learned on the way.
 tags: [ 'blog', 'post', 'week', 'introduction' ]
-draft: true
+draft: false
 ---
 
 My name is Brendan Abolivier. I'm a young guy from [Brest, France](https://www.openstreetmap.org/relation/1076124) working as a junior system administrator at [CozyCloud](https://cozy.io/), a small French company working on an open personal cloud platform aiming at giving people ownership on their personal data back.
