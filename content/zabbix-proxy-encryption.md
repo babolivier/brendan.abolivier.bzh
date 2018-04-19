@@ -227,7 +227,7 @@ Make sure this command line is run from the proxy's host. You may want to change
 
 If encryption is indeed turned on, all of the translated content sent from the proxy to the server (the right part of the output) must be un-understandable gibberish.
 
-If no traffic goes between your proxy and your server (i.e. if `tcpdump` shows nothing), you might want to update the firewall on your Zabbix server's host to allow incoming connection on port 10051 (or any other port you might have configured the server to listen to).
+If no traffic goes between your proxy and your server (i.e. if `tcpdump` shows nothing), you might want to update the firewall rules on your Zabbix server's host to allow incoming connection on port 10051 (or any other port you might have configured the server to listen to).
 
 If you were not aware of it, this blog post was the first episode of my [One post a week](https://brendan.abolivier.bzh/one-post-a-week/) series, in which I'm trying to keep up with writing a blog post a week to help me get better at sharing my knowledge. If you have any feedback on this post, make sure to hit me up on [Twitter](https://twitter.com/BrenAbolivier), I'll be more than happy to discuss it with you 🙂
 
