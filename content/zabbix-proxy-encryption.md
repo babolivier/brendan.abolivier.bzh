@@ -185,7 +185,7 @@ Now you'll need to log into your Zabbix server's web interface (as an administra
 
 ![](/images/zabbix-proxy-encryption/zabbix-proxy-creation.png)
 
-Fill in your proxy's name, but don't click "Add" yet. Make sure the name is exactly the same as the `Hostname` you specified in the proxy's configuration (it's case-sensitive).
+Fill in your proxy's name, but don't click "Add" yet. Also, make sure the name is exactly the same as the `Hostname` you specified in the proxy's configuration (it's case-sensitive).
 
 ![](/images/zabbix-proxy-encryption/zabbix-proxy-name.png)
 
