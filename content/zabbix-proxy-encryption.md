@@ -2,7 +2,7 @@
 title: Setting up Zabbix supervision on a remote infrastructure with proxy and PSK-based encryption
 description: At CozyCloud, we recently had to set up Zabbix supervision on a new infrastructure which could only speak to our Zabbix server over the Internet. As a result, we had to install a Zabbix proxy on the new infrastructure and configure it to use PSK-based encryption when talking to the server. Bear with me as I explain to you the steps we followed.
 tags: [ 'zabbix', 'supervision', 'encryption', 'proxy', 'psk' ]
-publishDate: 2018-04-20
+date: 2018-04-20
 draft: false
 ---
 
