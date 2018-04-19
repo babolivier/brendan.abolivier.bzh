@@ -231,6 +231,6 @@ If no traffic goes between your proxy and your server (i.e. if `tcpdump` shows n
 
 If you were not aware of it, this blog post was the first episode of my [One post a week](https://brendan.abolivier.bzh/one-post-a-week/) series, in which I'm trying to keep up with writing a blog post a week to help me get better at sharing my knowledge. If you have any feedback on this post, make sure to hit me up on [Twitter](https://twitter.com/BrenAbolivier), I'll be more than happy to discuss it with you 🙂
 
-I'd also like to thank [Thibaut](https://twitter.com/CromFR) and [Sébastien](https://twitter.com/SebBLAISOT) for their early feedback on this post, which helped me make this post even better.
+I'd also like to thank [Thibaut](https://twitter.com/CromFR) and [Sébastien](https://twitter.com/SebBLAISOT) for their early feedback on this post, which helped me make it even better.
 
 See you next week for a new post!
