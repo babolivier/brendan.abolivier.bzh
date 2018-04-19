@@ -3,7 +3,7 @@ title: Setting up Zabbix supervision on a remote infrastructure with proxy and P
 description: At CozyCloud, we recently had to set up Zabbix supervision on a new infrastructure which could only speak to our Zabbix server over the Internet. As a result, we had to install a Zabbix proxy on the new infrastructure and configure it to use PSK-based encryption when talking to the server. Bear with me as I explain to you the steps we followed.
 tags: [ 'zabbix', 'supervision', 'encryption', 'proxy', 'psk' ]
 publishDate: 2018-04-20
-draft: true
+draft: false
 ---
 
 All of [CozyCloud](https://cozy.io/)'s production and development infrastructure is hosted in [OVH](https://ovh.com)'s datacenters. We monitor this infrastructure in two ways: by sending data points on various metrics to [OVH's Metrics Data Platform](https://www.ovh.com/fr/data-platforms/metrics/) (I'll write about that in a future post), and also by using a self-hosted [Zabbix](https://www.zabbix.com/) server.
