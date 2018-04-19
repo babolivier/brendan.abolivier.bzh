@@ -8,7 +8,7 @@ draft: false
 
 All of [CozyCloud](https://cozy.io/)'s production and development infrastructure is hosted in [OVH](https://ovh.com)'s datacenters. We monitor this infrastructure in two ways: by sending data points on various metrics to [OVH's Metrics Data Platform](https://www.ovh.com/fr/data-platforms/metrics/) (I'll write about that in a future post), and also by using a self-hosted [Zabbix](https://www.zabbix.com/) server.
 
-All of our OVH hosts are connected to a virtual local network (vRack) that cannot be accessed from the outside world, so on-host Zabbix agents use it to send their unencrypted metrics to the Zabbix server, which is also connected to this local network. It was a very simple setup, which looked like this:
+All of our OVH hosts are connected to a virtual local network (vRack) that cannot be accessed from the outside world, so on-host Zabbix agents use it to send their unencrypted data to the Zabbix server, which is also connected to this local network. It was a very simple setup, which looked like this:
 
 ![](/images/zabbix-proxy-encryption/zabbix-agent-server-main.jpg)
 
