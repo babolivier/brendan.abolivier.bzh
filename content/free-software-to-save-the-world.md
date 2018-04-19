@@ -179,3 +179,17 @@ to an ethical issue. To continue with the previous examples Firefox is introduce
 as a solution to mass surveillance and respectful browsing on the Web, and
 the Wikimedia Foundation works, (partly) by developping their software, towards
 providing free and reliable knowledge to the world.
+
+Another kind of structure that can be found in the free software ecosystem is a
+company. Because of the changes in the software industry pushing developers
+towards not selling the software they've created, but rather selling their expertise
+to use, host or hack it, companies are now able to get some money in while working
+exclusively on free software. Some companies are selling hosting of their service,
+such as [GitLab](https://about.gitlab.com/gitlab-com/), others are selling corporate
+support for companies using their software like [Matrix.org](https://matrix.org/)
+does. And it ususally works, because who can help you out with a piece of software,
+or host it for you, better than the people making it?
+
+Last, but not least, a few projects are also lead by independant developers working
+as freelancers. Examples are way fewer than for the two first structures, but they
+do exist. Take a look, for example, 
