@@ -1,5 +1,5 @@
 ---
-title: "i maed dis: Grafana Dashboards Manager"
+title: "Grafana Dashboards Manager"
 description: I'm sort of in charge of all things monitoring currently at CozyCloud. Some of it is done using Zabbix (I already wrote about that), and the other part is pushed to OVH Metrics and visualised through Grafana. When I was alone working on dashboards and graphs, it was all right, but once a colleague came in, we felt the lack of version control would cause great troubles. That's where the Grafana Dashboards Manager comes in to save the day.
 tags: [ 'grafana', 'dashboards', 'manager' ]
 publishDate: 2018-04-28T00:00:00+02:00
