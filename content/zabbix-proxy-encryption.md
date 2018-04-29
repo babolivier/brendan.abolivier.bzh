@@ -4,6 +4,7 @@ description: At CozyCloud, we recently had to set up Zabbix supervision on a new
 tags: [ 'zabbix', 'supervision', 'encryption', 'proxy', 'psk' ]
 publishDate: 2018-04-20T00:00:00+02:00
 draft: false
+thumbnail: /zabbix-proxy-encryption/zabbix-agent-server-proxy-main-remote.jpg
 ---
 
 All of [CozyCloud](https://cozy.io/)'s production and development infrastructure is hosted in [OVH](https://ovh.com)'s datacenters. We monitor this infrastructure in two ways: by sending data points on various metrics to [OVH's Metrics Data Platform](https://www.ovh.com/fr/data-platforms/metrics/) (I'll write about that in a future post), and also by using a self-hosted [Zabbix](https://www.zabbix.com/) server.
