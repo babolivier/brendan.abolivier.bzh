@@ -4,6 +4,7 @@ description: I'm sort of in charge of all things monitoring currently at CozyClo
 tags: [ 'grafana', 'dashboards', 'manager' ]
 publishDate: 2018-04-28T00:00:00+02:00
 draft: false
+thumbnail: /grafana-dashboards-manager/workflow.jpg
 ---
 
 At [CozyCloud](https://cozy.io/), most of my work orbites around monitoring and supervision. That's the main reason explaning why I was tasked with dealing with [Zabbix supervision on a remote infrastructure](/zabbix-proxy-encryption/) we're setting up, and it also explains why I'll write some more on monitoring solutions in the future.
