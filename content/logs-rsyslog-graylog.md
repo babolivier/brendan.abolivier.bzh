@@ -3,7 +3,7 @@ title: Centralising logs with rsyslog and parsing them with Graylog extractors
 description: Logs are really useful for a lot of things, from investigating issues to monitoring stuff that can't be watched efficiently by other monitoring tools. When it comes to storing them, a lot of solutions are available, depending on what you need. At CozyCloud, our main need was to be able to store them somewhere safe, and process them. Let me walk you through how we did it.
 tags: [ 'rsyslog', 'logs', 'grok', 'graylog' ]
 publishDate: 2018-05-05T00:00:00+02:00
-draft: true
+draft: false
 thumbnail: /logs-rsyslog-graylog/graylog-search.png
 ---
 
