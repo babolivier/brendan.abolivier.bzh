@@ -13,7 +13,7 @@ When it comes to storing them, a lot of solutions are available, depending on wh
 
 ## Earth, lend me your logs! says syslog-dev
 
-We first started by centralising logs using [rsyslog](https://www.rsyslog.com/), an open logs management system that's described by its creators as a "swiss army knife of logging". One of its features I'll be writing the most about in this post is UDP and TCP forwarding. Using that, we (well, my colleagues, since I wasn't there at that time) created a host for each of our environments which task would be to keep a copy of every log emitted from every host and by every application in the given environment.
+We started by centralising logs using [rsyslog](https://www.rsyslog.com/), an open logs management system that's described by its creators as a "swiss army knife of logging". One of its features I'll be writing the most about in this post is UDP and TCP forwarding. Using that, we (well, my colleagues, since I wasn't there at that time) created a host for each of our environments which task would be to keep a copy of every log emitted from every host and by every application in the given environment.
 
 I'll take a quick break here to explain what I mean by "environment" in case it's not clear: our infrastructure's architecture is replicated 4 times in 4 different environments, each with a different purpose: `dev` (dedicated to experimentation and prototyping, aka our playground), `int` (dedicated to running the developers' integration tests, aka their playground), `stg` (dedicated to battle-testing features before we push them to the production) and `prod` (I'll let you guess what's its purpose). End of the break.
 
