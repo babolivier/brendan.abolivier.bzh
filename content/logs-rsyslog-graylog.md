@@ -131,7 +131,7 @@ Now, we have a copy of all of our logs at the same place, and process them at a 
 
 But this is a story for another week, since this post is already quite long. Next time I'll tell you about logs, we'll see how we moved our logs processing and forwarding to a remote service, without losing all the work we did with rsyslog and Graylog. This won't be next week, though, because I already have next week's topic, and it's not even monitoring-related!
 
-Anyway, thanks for bearing with me as I walked you through an interesting (I hope) journey into logs processing. If you're note aware of it, this post was part of my [One post a week](/one-posta-week/) series, in which I challenge myself to write a whole blog post per week in order for me to re-evaluate the knowledge I have and get better at sharing it. If you've enjoyed it, or if you have any feedback about it, make sure to hit me up on [Twitter](https://twitter.com/BrenAbolivier), I'll be more than happy to discuss it with you 🙂
+Anyway, thanks for bearing with me as I walked you through an interesting (I hope) journey into logs processing. If you're note aware of it, this post was part of my [One post a week](/one-posta-week/) series, in which I challenge myself to write each week a whole blog post in order for me to re-evaluate the knowledge I have and get better at sharing it. If you've enjoyed it, or if you have any feedback about it, make sure to hit me up on [Twitter](https://twitter.com/BrenAbolivier), I'll be more than happy to discuss it with you 🙂
 
 Thanks to [Thibaut](https://twitter.com/CromFR) and [Sébastien](https://twitter.com/SebBLAISOT) for giving this post a read before I got to publish it and getting me some nice feedback.
 
