@@ -127,7 +127,7 @@ Click "Edit" next to the extractor you want to edit and you'll be taken to a scr
 
 ## In the next episode
 
-Now, we have a copy of all of our logs at the same place, and process them at a single location in our infrastructure, but creates a sort-of *SPOF* (single point of failure). Well, only partial, since the logs are only copied from their original hosts, so if something happen to one of these locations, "only" the processing can be permanently impacted. Anyway, it doesn't address one of our needs, which is to do all this outside of our infrastructure.
+Now, we have a copy of all of our logs at the same place, and process them at a single location in our infrastructure, which is great but creates a sort-of *SPOF* (single point of failure). Well, only partial, since the logs are only copied from their original hosts, so if something happen to one of these locations, "only" the processing can be permanently impacted. Anyway, it doesn't address one of our needs, which is to do all this outside of our infrastructure.
 
 But this is a story for another week, since this post is already quite long. Next time I'll tell you about logs, we'll see how we moved our logs processing and forwarding to a remote service, without losing all the work we did with rsyslog and Graylog. This won't be next week, though, because I already have next week's topic, and it's not even monitoring-related!
 
