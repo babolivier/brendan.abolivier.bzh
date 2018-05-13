@@ -244,7 +244,7 @@ Now let's try to send our own state event in the room, shall we? I order to do t
 
 The body for our request is the event's content object.
 
-Let's create a `tld.project.foo` event with `bar` as its state key, and `{"baz": "qux"}` as its content. To achieve that, let's send a `PUT` request to `/_matrix/client/r0/rooms/!RtZiWTovChPysCUIgn:matrix.project.tld/state/tld.project.foo/bar?access_token=olic0yeVa1pore2Kie4Wohsh` (from which I've stripped the protocol scheme and FQDN so it doesn't appear too in the post) with the fillowing content:
+Let's create a `tld.project.foo` event with `bar` as its state key, and `{"baz": "qux"}` as its content. To achieve that, let's send a `PUT` request to `/_matrix/client/r0/rooms/!RtZiWTovChPysCUIgn:matrix.project.tld/state/tld.project.foo/bar?access_token=olic0yeVa1pore2Kie4Wohsh` (from which I've stripped the protocol scheme and FQDN so it doesn't appear too long in the post) with the fillowing content:
 
 {{< highlight json >}}
 {
