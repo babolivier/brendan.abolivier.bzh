@@ -15,7 +15,7 @@ Matrix also distances itself from the "yet another comms thing" argument with it
 
 ![](/images/enter-the-matrix/bridges.jpg)
 
-There's also been quite some noise around Matrix lately with the French government [announcing its decision to go full Matrix](https://matrix.org/blog/2018/04/26/matrix-and-riot-confirmed-as-the-basis-for-frances-secure-instant-messenger-app/) for their internal communications, using a Riot fork they'll release as free software to the wide world.
+There's also been quite some noise around Matrix lately with the French government [announcing its decision to go full Matrix](https://matrix.org/blog/2018/04/26/matrix-and-riot-confirmed-as-the-basis-for-frances-secure-instant-messenger-app/) for their internal communications, using a Riot fork they'll also release as free software to the wide world.
 
 ## Under the hood
 
