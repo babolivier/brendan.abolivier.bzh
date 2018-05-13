@@ -1,8 +1,8 @@
 ---
 title: Enter the Matrix
-description: Matrix is a protocol for decentralised, federated and secure communications, created and mainly built by New Vector, a company split between London, UK and Rennes, France. It's based on RESTful HTTP/JSON APIs, documented in open specifications, and is designed to be usable for anything that requires real-time-ish communications, from instant messaging to IoT. Let's see how it works and how to make a basic use of it.
+description: Matrix is a protocol for decentralised, federated and secure communications, created and maintained by New Vector, a company split between London, UK and Rennes, France. It's based on RESTful HTTP/JSON APIs, documented in open specifications, and is designed to be usable for anything that requires real-time-ish communications, from instant messaging to IoT. Let's see how it works and how to make a basic use of it.
 tags: [ 'free', 'software', 'decentralisation', 'federation', 'communications' ]
-publishDate: 2018-05-12T00:00:00+02:00
+publishDate: 2018-05-13T00:00:00+02:00
 draft: false
 thumbnail: /enter-the-matrix/room-schema.png
 ---
