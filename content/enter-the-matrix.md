@@ -97,6 +97,8 @@ In the following steps, I'll assume a few things:
 
 Note that I'll only cover some basic use of the client-server spec. If you want to go further, you should have a look at the [full spec](https://matrix.org/docs/spec/) or ask any question in the [#matrix-dev](https://matrix.to/#/#matrix-dev:matrix.org) room. I also won't cover homeserver setup, here (though I might do just that in a future post). My goal here is mainly to give you a look at how the client-server APIs globally works rather tha creating a whole shiny app which would take too long for a single blog post.
 
+It might also be worth noting that each Matrix API endpoint I'll name in the rest of this post is a clickable link to the related section of the Matrix spec, which you can follow if you want more complete documentation on a specific endpoint.
+
 ### Registering
 
 Of course, your user doesn't exist yet, so let's register it against the homeserver.
