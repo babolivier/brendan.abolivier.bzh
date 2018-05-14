@@ -41,7 +41,7 @@ Broadly speaking, a room can be schematised as follows:
 
 ![](/images/enter-the-matrix/room-schema.png)
 
-This image is a capture of the interactive explanation on how Matrix works named "How does it work?" on [Matrix's homepage](https://matrix.org/), which I'd really recommand checking out. That explains why the Matrix IDs and homeservers' names aren't the same as in my example.
+This image is a capture of the interactive explanation on how Matrix works named "How does it work?" on [Matrix's homepage](https://matrix.org/), which I'd really recommand checking out. That's why the Matrix IDs and homeservers' names aren't the same as in my example.
 
 For what it's worth, I took a shortcut earlier since, in the Matrix spec, 1-to-1 chats are also rooms. So technically speaking, Alice and Bob were already in a room before Charlie wanted to chat with them.
 
