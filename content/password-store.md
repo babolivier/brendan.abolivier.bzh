@@ -4,7 +4,6 @@ description: Let's talk about passwords. Basically, that's the things you're sup
 tags: [ 'password', 'manager', 'pass', 'passwordstore', 'store' ]
 publishDate: 2018-05-21T00:00:00+02:00
 draft: false
-thumbnail:
 ---
 
 Let's talk about passwords. Basically, that's the things you're supposed to keep different for each account you have on the Internet. Either you don't do it, do it partially (like a mix between a leet-speak version of the service's name and a fix part, with an uppercase letter and a character that's neither a letter nor a number at some place, such as `mySup3rw3bs!t3MyUsualPassword`), or have a password manager do it for you.
