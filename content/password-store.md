@@ -143,6 +143,6 @@ Of course, I haven't described all the features pass has. This post only describ
 
 Thanks for reading through this post, and huge thanks to [the amazing feedback and attention](https://twitter.com/BrenAbolivier/status/995973756240777217) you gave following my [latest post on Matrix](/enter-the-matrix), that's hugely appreciated.
 
-The length and complexity of the said last post brought some fatigue with it, which explains this one's lateness. Taking that into account, and given the fact that I'm working really hard on [Trancendances's immersion{s}](http://www.immersions.bzh) party in Brest that's taking place in less than two weeks, I don't think I'll be publishing any more post in the next couple of weeks (except maybe a very small one on a couple tools I discovered recently, but that's far from sure).
+The length and complexity of the said last post brought some fatigue with it, which explains this one's lateness. Taking that into account, and given the fact that I'm working really hard on the [Trancendances's immersion{s}](http://www.immersions.bzh) party in Brest that's taking place in less than two weeks, I don't think I'll be publishing any more post in the next couple of weeks (except maybe a very small one on a couple tools I discovered recently, but that's far from sure).
 
 I'll see you after that, most likely in a bit less than three weeks, for a brand new blog post (of which I already know the topic, and it'll be a completely non-tech one, for a change!). See you then!
