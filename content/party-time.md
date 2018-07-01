@@ -128,6 +128,6 @@ Before concluding this post, I'd like to thank, once again, everyone who worked 
 
 I'd also like to apologise regarding my absence on this space for the past few weeks. The last couple of weeks before *immersion{s}* have been a heck of a rush, and I much needed the month of June to recover (not even considering the infection I got in the middle of the month). Now I'm back on tracks, and I'll try to keep up with my ["One post a week"](/one-post-a-week/) challenge during the summer.
 
-See you next week!
+As again, if you liked this post or want to share some feedback on it with me, feel free to hit me up on [Twitter](https://twitter.com/BrenAbolivier), [Mastodon](https://mastodon.social/@babolivier) or [Matrix](https://matrix.to/#/@Brendan:matrix.trancendances.fr)!
 
-
+See you next week for a new post!
