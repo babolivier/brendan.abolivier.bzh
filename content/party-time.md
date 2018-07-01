@@ -1,13 +1,12 @@
 ---
 title: Making party time
-description: A month ago today, the first edition of *immersion{s}*, a new events brand mainly focused on trance parties in Brest (Brittany), happened. Organising an event isn't an easy task, and that's even more relevant when it's your first one. It took us over 6 months of hard work to make this one happen, and I'm not even counting all the previous failed attemps. During all that time, up to the few hours after the party ended, we've learned a lot on a lot of topics we sometimes didn't even expect to have to deal with, and this new knowledge is what I'd like to share with you this week.
+description: A month ago today, the first edition of immersion{s}, a new events brand mainly focused on trance parties in Brest (Brittany), happened. Organising an event isn't an easy task, and that's even more relevant when it's your first one. It took us over 6 months of hard work to make this one happen, and I'm not even counting all the previous failed attemps. During all that time, up to the few hours after the party ended, we've learned a lot on a lot of topics we sometimes didn't even expect to have to deal with, and this new knowledge is what I'd like to share with you this week.
 tags: [ 'event', 'organisation', 'planning', 'tips', 'music', 'electronic music' ]
 publishDate: 2018-07-01T00:00:00+02:00
 draft: false
-
-
-
+thumbnail: /party-time/immersions-wackii.jpg
 ---
+
 
 A month ago today, the first edition of *immersion{s}*, a new events brand mainly focused on trance parties in Brest (Brittany), happened. This first edition, as all the next ones will be, are organised by [Trancendances](https://www.trancendances.fr), a French non-profit I co-funded and have been the president of since 2014, focused on promoting trance music all around France.
 
@@ -15,7 +14,7 @@ In the past, we worked on a few events around Paris and promoted others all arou
 
 Organising an event isn't an easy task, and that's even more relevant when it's your first one. It took us over 6 months of hard work to make this one happen, and I'm not even counting all the previous failed attemps. During all that time, up to the few hours after the party ended, we've learned a lot on a lot of topics we sometimes didn't even expect to have to deal with, and this new knowledge is what I'd like to share with you this week.
 
-![Alex Wackii playing at immersion{s}](/images/party-time/immersions_wackii.jpg)
+![Alex Wackii playing at immersion{s}](/images/party-time/immersions-wackii.jpg)
 
 *[Alex Wackii](https://www.facebook.com/AlexWackiiOfficial/) playing at immersion{s} - photo credit: [Joffrey Lartigaud](http://jlartigaud.fr/) / [Trancendances](https://www.trancendances.fr/)*
 
