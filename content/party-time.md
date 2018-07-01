@@ -15,7 +15,7 @@ In the past, we worked on a few events around Paris and promoted others all arou
 
 Organising an event isn't an easy task, and that's even more relevant when it's your first one. It took us over 6 months of hard work to make this one happen, and I'm not even counting all the previous failed attemps. During all that time, up to the few hours after the party ended, we've learned a lot on a lot of topics we sometimes didn't even expect to have to deal with, and this new knowledge is what I'd like to share with you this week.
 
-![immersions_wackii](../static/images/party-time/immersions_wackii.jpg)
+![Alex Wackii playing at immersion{s}](/images/party-time/immersions_wackii.jpg)
 
 *[Alex Wackii](https://www.facebook.com/AlexWackiiOfficial/) playing at immersion{s} - photo credit: [Joffrey Lartigaud](http://jlartigaud.fr/) / [Trancendances](https://www.trancendances.fr/)*
 
