@@ -246,14 +246,14 @@ This will download a file named `openrc.sh` containing all remaining pieces of i
 'objectstore' => array(
 	'class' => 'OC\\Files\\ObjectStore\\Swift',
 	'arguments' => array(
-			'username' => 'OS_USERNAME',
-			'password' => 'OS_PASSWORD',
-			'bucket' => 'nextcloud',
-			'autocreate' => false,
-			'region' => 'OS_REGION_NAME',
-			'url' => 'https://auth.cloud.ovh.net/v2.0',
-			'tenantName' => 'OS_TENANT_NAME',
-			'serviceName' => 'swift',
+		'username' => 'OS_USERNAME',
+		'password' => 'OS_PASSWORD',
+		'bucket' => 'nextcloud',
+		'autocreate' => false,
+		'region' => 'OS_REGION_NAME',
+		'url' => 'https://auth.cloud.ovh.net/v2.0',
+		'tenantName' => 'OS_TENANT_NAME',
+		'serviceName' => 'swift',
 	),
 ),
 ```
