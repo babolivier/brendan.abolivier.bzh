@@ -373,6 +373,7 @@ Now edit (as root) the `/etc/loolwsd/loolwsd.xml` file, such that:
 
 * in the `ssl` section, `enable` should have `false` as its value, and `termination` must be set to `true`. Because we'll serve Collabora Online behing Caddy, acting as a HTTPS reverse proxy, we don't want Collabora Online to serve its content using HTTPS (which might cause some troubles with certificates, as Caddy's way to handle these wouldn't let another program access them), but we want it to tell its clients to use HTTPS URLs instead of HTTP ones, which is exactly what `termination` does.
 * in the `wopi` section (itself being located under the `storage` section), add a `host` line containing the domain name you gave Nextcloud, with dots (`.`) escaped with backslashes (`\`) because the value is expected to be a regular expression. Make sure the `allow` attribute is set to `true`. The `storage` section contains access control lists (*ACLs*) to tell Collabora Online where it can access files and where it can't. Because Nextcloud uses [WOPI](https://wopi.readthedocs.io/en/latest/) to that end, this line grants access to Nextcloud to provide storage for Collabora Online using the WOPI protocol. As an example, if Nextcloud was served at `cloud.example.tld`, the line would look like:
+
 ```
 <host desc="Regex pattern of hostname to allow or deny." allow="true">cloud\.example\.tld</host>
 ```
