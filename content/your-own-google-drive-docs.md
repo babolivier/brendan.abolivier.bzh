@@ -273,7 +273,7 @@ All of these solutions work pretty well together, and are part of recommendation
 
 ### Zend OPCache
 
-PHP already comes bundled with a cache mechanism, which is a PHP opcache named Zend OPCache. Basically, a PHP opcache stores compiled PHP scripts so they don’t need to be re-compiled every time they are called. To enable it and get it to match Nextcloud's recommendations, uncomment the following line and ajust the necessary values in yout `/etc/php/7.0/fpm/php.ini` file in this way:
+PHP already comes bundled with a cache mechanism, which is a PHP opcache named Zend OPCache. Basically, a PHP opcache stores compiled PHP scripts so they don’t need to be re-compiled every time they are called. To enable it and get it to match Nextcloud's recommendations, uncomment the following lines and ajust the necessary values in yout `/etc/php/7.0/fpm/php.ini` file in this way:
 
 ```
 opcache.enable=1
