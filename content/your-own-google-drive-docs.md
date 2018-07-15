@@ -20,10 +20,9 @@ Just as many reasons for me to look for a Google Drive-like solution that I coul
 
 So far I got all of that working together on my personal space, so let me walk you through how to do that yourself. Because of the whole stack's current state, it does require some technical skills, though. Sorry about that.
 
-***Update:** right after I published this post, [Antoine](https://twitter.com/nd4pa) made an amazing Ansible playbook based on it, which you can find [right here](https://github.com/nd4pa/homesuite-ansible)!*
-
 *(Disclaimer: because I know that some who read this blog might ask the question, let me get things straight first: yup, I'm using Nextcloud as my Google Drive replacement, even though I currently work at [CozyCloud](https://cozy.io). Although people can seem to think it might be hypocritical from me to do so, my take on the matter is that Cozy and Nextcloud aren't competitors, and although they have some features in common, one can easily complete the other, as Cozy (which I also use) has features Nexctloud doesn't have and vice-versa. Diversity is great, as people from both [CozyCloud](https://twitter.com/cozycloud/status/968763001540145152) and [Nextcloud](https://twitter.com/Nextclouders/status/978233603191603200) would tell you. And no, I haven't been asked to write that paragraph 😉)*
 
+*Update: right after I published this post, [Antoine](https://twitter.com/nd4pa) made an amazing Ansible playbook based on it, which you can check out [right here](https://github.com/nd4pa/homesuite-ansible)!*
 
 ## LCPP: (GNU/)Linux-Caddy-PostgreSQL-PHP
 
