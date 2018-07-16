@@ -406,12 +406,12 @@ collabora.example.tld {
 
 	header / {
 		Strict-Transport-Security "max-age=31536000;"
-		Content-Security-Policy "default-src 'none'; frame-src 'self' blob:; connect-src 'self' wss://cloud.example.tld; script-src 'unsafe-inline' 'self'; style-src 'self' 'unsafe-inline'; font-src 'self' data:; object-src blob:; img-src 'self' data: https://cloud.example.tld:443; frame-ancestors https://cloud.example.tld:443"
+		Content-Security-Policy "default-src 'none'; frame-src 'self' blob:; connect-src 'self' wss://cloud.example.tld; script-src 'unsafe-inline' 'self'; style-src 'self' 'unsafe-inline'; font-src 'self' data:; object-src blob:; img-src 'self' data: https://cloud.example.tld:443; frame-ancestors https://cloud.example.tld:443 'self'"
 	}
 }
 ```
 
-While the whole file is pretty basic, let's talk about the last instruction, which contains the [Content Security Policy](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Content-Security-Policy) HTTP header. Because it's a quite complex header, I don't really know the details of how to tweak it to make it work with Collabora Online, and had neither the time nor the motivation to dive into it. Therefore, the header shown here is a plain copy of the one sent by [Nextcloud's demo servers](https://demo.nextcloud.com), where I replaced every instance of `demo.nextcloud.com` with Nextcloud's URL (which, in the example shown here, is `cloud.example.tld`, which you should replace with the domain you gave Nextcloud). It works fine, but I wanted to point out that this part of the configuration isn't my own work.
+While the whole file is pretty basic, let's talk about the last instruction, which contains the [Content Security Policy](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Content-Security-Policy) HTTP header. Because it's a quite complex header, I don't really know the details of how to tweak it to make it work with Collabora Online, and had neither the time nor the motivation to dive into it. Therefore, the header shown here is a plain copy of the one sent by [Nextcloud's demo servers](https://demo.nextcloud.com), where I replaced every instance of `demo.nextcloud.com` with Nextcloud's URL (which, in the example shown here, is `cloud.example.tld`, which you should replace with the domain you gave Nextcloud). I also improved the last part, allowing Collabora to open iframes pointing to itself, which is required for slideshow presentations. It works fine, but I wanted to point out that this part of the configuration isn't my own work.
 
 Now let's reload Caddy to let it know of these changes in its configuration:
 
