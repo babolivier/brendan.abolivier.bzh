@@ -71,6 +71,8 @@ sudo systemctl enable caddy
 sudo systemctl start caddy
 {{< / highlight >}}
 
+*Note: either the `curl` line or the `setcap` one (or both of them) might not work because of missing packages depending on your GNU/Linux distribution and your provider's image. On Debian-based distributions, `curl` can be installed by installing the `curl` package, and `setcap` can be installed by installing the `libcap2-bin` package. If you're running another GNU/Linux distribution, the packages' names can differ a bit.*
+
 Now that you have Caddy installed, let's install another very important component we'll need to run Nextcloud: PHP.
 
 ### PHP
