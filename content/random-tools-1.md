@@ -41,6 +41,6 @@ The extension also provides you with other ways to interact with tabs, which are
 
 In order to make these posts quick to make, I've decided to only cover two tools per episode, so that's the end of this first one! I'm not sure about when the next one will get its release, but I've already the tools to talk about in mind.
 
-If you like that one or want to share some feedback on it with me, feel free to hit me up on [Twitter](https://twitter.com/BrenAbolivier), [Mastodon](https://mastodon.social/@babolivier) or [Matrix](https://matrix.to/#/@Brendan:matrix.trancendances.fr)!
+If you like that one or want to share some feedback on it with me, feel free to hit me up on [Twitter](https://twitter.com/BrenAbolivier), [Mastodon](https://mastodon.social/@babolivier) or [Matrix](https://matrix.to/#/@brendan:abolivier.bzh)!
 
 I'll see you before then, next week in fact, for what should be a technical walkthrough. Until then, have fun, and see you next week! 😄

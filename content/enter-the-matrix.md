@@ -345,6 +345,6 @@ If you want to dive a bit deeper into the Matrix APIs, I'd advise you to have a 
 
 I hope you found this journey into Matrix's APIs as interesting as I did when I first heard of the project. Matrix is definitely something I'll keep playing with for a while, and might have some big news related to some Matrix-related projects I'm working on to share here in the coming months.
 
-As always, I'd like to thank [Thibaut](https://twitter.com/CromFR) for proofreading this post and giving me some useful early feedback on it. If you want to share your feedback on this post with me too, don't hesitate to do so, either via [Twitter](https://twitter.com/BrenAbolivier) or through Matrix, my own Matrix ID being [@Brendan:matrix.trancendances.fr](https://matrix.to/#/@Brendan:matrix.trancendances.fr)!
+As always, I'd like to thank [Thibaut](https://twitter.com/CromFR) for proofreading this post and giving me some useful early feedback on it. If you want to share your feedback on this post with me too, don't hesitate to do so, either via [Twitter](https://twitter.com/BrenAbolivier) or through Matrix, my own Matrix ID being [@brendan:abolivier.bzh](https://matrix.to/#/@brendan:abolivier.bzh)!
 
 See you next week for a new post 🙂
