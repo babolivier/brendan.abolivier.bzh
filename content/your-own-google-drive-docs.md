@@ -323,7 +323,7 @@ With its default configuration, Nextcloud can run into some troubles handling fi
 A single Redis instance can act as a great cache for file locks, and installing it is as simple as running:
 
 ```
-sudo systemctl restart redis-server php-redis
+sudo apt install redis-server php-redis
 ```
 
 Once again, restart PHP's FPM:
