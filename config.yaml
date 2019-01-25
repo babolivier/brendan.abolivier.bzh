@@ -1,5 +1,6 @@
 baseURL: "https://brendan.abolivier.bzh/"
 title: "Brendan Abolivier"
+theme: "hyde"
 footnoteReturnLinkContents: "↩"
 pygmentsUseClasses: true
 permalinks:
