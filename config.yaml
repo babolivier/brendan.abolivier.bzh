@@ -1,0 +1,22 @@
+baseURL: "https://brendan.abolivier.bzh/"
+title: "Brendan Abolivier"
+footnoteReturnLinkContents: "↩"
+pygmentsUseClasses: true
+permalinks:
+  post: /:year/:month/:title/
+params:
+  description: "Some guy sharing his knowledge and thoughts with whoever wants to read it."
+  name: "Brendan Abolivier"
+  author: "Brendan Abolivier"
+  twitter: "BrenAbolivier"
+  email: "hello@brendanabolivier.com"
+  pgp: "E1D4 B745 7A82 9D77 1FBA 8CAC E860 1572 74A2 8D7E"
+  keyserver: "pgp.key-server.io"
+  copyright: "(CC-BY-SA) Brendan Abolivier"
+  creativeCommons: "by-sa"
+  mastodon:
+    username: babolivier
+    instance: mastodon.social
+  git:
+    url: https://git.abolivier.bzh/babolivier
+    username: babolivier
