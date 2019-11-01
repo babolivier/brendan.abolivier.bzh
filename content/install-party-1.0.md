@@ -170,7 +170,7 @@ ORPHANED DOMAINS
 $
 ```
 
-### Why 1.0?
+### The big 1.0
 
 A short while after Ubucon, I finished a basic implementation the three modes
 I've described above (I had already implemented the creation and was halfway
