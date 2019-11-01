@@ -20,8 +20,8 @@ workshops.
 One of these workshops, which happened on the morning of the last day, was about
 installing [Synapse](https://github.com/matrix-org/synapse), the reference
 Matrix homeserver implementation. The goal was to give attendees a presentation
-about what Matrix is, get them to install their own homeserver, and, if possible, to
-get everyone's server to federate with everyone else's.
+about what Matrix is, get them to install their own homeserver, and, if
+possible, to get everyone's server to federate with everyone else's.
 
 This is not a trivial thing to do, especially when the technical expertise of
 the attendence looks quite diverse. After a quick brainstorm on how to do that,
@@ -89,7 +89,9 @@ of the post.)
 The workshop's host can then hand out the domain name attached to a server to
 each attendee, who can then log in via SSH to the server and install and
 configure a Matrix homeserver (including, if applicable, its built-in ACME
-support for automatic provisioning of the certificate needed for federation).
+support for automatic provisioning of the certificate needed for federation). As
+an example, [here](https://git.io/JelHi) are the instructions we got the
+attendees to follow during our workshop at Ubucon Europe.
 
 ![](/images/install-party-1.0/domain.jpg)
 *One of the domains I handed out during our workshop at Ubucon*
