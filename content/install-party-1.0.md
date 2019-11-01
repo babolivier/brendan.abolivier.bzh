@@ -20,7 +20,7 @@ workshops.
 One of these workshops, which happened on the morning of the last day, was about
 installing [Synapse](https://github.com/matrix-org/synapse), the reference
 Matrix homeserver implementation. The goal was to give attendees a presentation
-about what Matrix is, get them to install their own server, and, if possible, to
+about what Matrix is, get them to install their own homeserver, and, if possible, to
 get everyone's server to federate with everyone else's.
 
 This is not a trivial thing to do, especially when the technical expertise of
