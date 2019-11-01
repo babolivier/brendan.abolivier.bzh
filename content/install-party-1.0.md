@@ -12,7 +12,7 @@ A few weeks ago, I
 Europe](https://sintra2019.ubucon.org/) in Sintra with two of my colleagues from
 the [Matrix](https://matrix.org) core team (oh, yes, if you didn't know already,
 I [joined New
-Vector](https://twitter.com/BrenAbolivier/status/1057656744497811457) around a
+Vector](https://twitter.com/BrenAbolivier/status/1057656744497811457) about a
 year ago, and I've been working on Matrix as my full-time job since then). We
 had a few chats with very nice people, and also hosted two Matrix-related
 workshops.
