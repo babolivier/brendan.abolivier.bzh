@@ -119,6 +119,9 @@ INFO - Done!
 $
 ```
 
+Of course, this deletion mode also has a dry-run mode, which can be turned on
+with `-d`.
+
 They can also delete specific servers with `-s foo -s bar` (which would only
 delete the servers `foo` and `bar`), or delete every server except one or more
 with `-a -e foo -e bar` (which would delete every server but `foo` and `bar`).
