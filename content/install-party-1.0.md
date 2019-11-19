@@ -36,7 +36,7 @@ though, so I figured I'd give a try at automating the provisioning of such
 servers. This evolved into a project I've kept working on afterwards named
 "Install Party".
 
-## Install Party v1.0.0
+## Install Party
 
 [Install Party](https://github.com/babolivier/install-party) is a Python module
 that allows users to provision a server by creating an instance (a physical or
