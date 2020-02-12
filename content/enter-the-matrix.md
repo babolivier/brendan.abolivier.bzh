@@ -182,7 +182,7 @@ To register against this stage, we'll only add a few lines to our initial reques
 }
 {{< / highlight >}}
 
-Note that the value to the `session` property in the newly added `auth` object is the value from `sessions` taken from the homeserver's response to our intial request. This `auth` object will tell the homeserver that this request is a follow-up to the initial request, using the stage `m.login.dummy`. The homeserver will automatically recognise the flow we're using, and will succeed (because we use `m.login.dummy`), returning this JSON along with a `200` status code:
+Note that the value to the `session` property in the newly added `auth` object is the value from `session` taken from the homeserver's response to our intial request. This `auth` object will tell the homeserver that this request is a follow-up to the initial request, using the stage `m.login.dummy`. The homeserver will automatically recognise the flow we're using, and will succeed (because we use `m.login.dummy`), returning this JSON along with a `200` status code:
 
 {{< highlight json >}}
 {
