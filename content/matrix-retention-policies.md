@@ -1,6 +1,6 @@
 ---
 title: Implementing message retention policies in Matrix
-description: As part of my work in the Matrix core team, I found myself implementing an actively requested feature, i.e. support for message retention policies, in Synapse (the reference Matrix homeserver implementation). In this post, I give you a peek at what the feature does, how it works, and how it's currently implemented in Synapse.
+description: As part of my work in the Matrix core team, I got to implement an actively requested feature, i.e. support for message retention policies, in Synapse (the reference Matrix homeserver implementation). In this post, I give you a peek at what the feature does, how it works, and how it's currently implemented in Synapse.
 tags: [ 'matrix', 'synapse', 'free', 'software', 'decentralisation', 'federation', 'communications', 'retention', 'policy', 'message' ]
 publishDate: 2021-01-11T00:00:00+02:00
 draft: false
