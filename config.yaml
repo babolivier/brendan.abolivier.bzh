@@ -19,5 +19,5 @@ params:
     username: babolivier
     instance: mastodon.social
   git:
-    url: https://git.abolivier.bzh/babolivier
+    url: https://github.com/babolivier
     username: babolivier
