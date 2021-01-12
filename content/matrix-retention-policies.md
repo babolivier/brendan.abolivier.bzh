@@ -339,7 +339,7 @@ This means a separate feature needs to be implemented for media. The details and
 
 Message retention policies can be a super useful feature, and some bits can be a bit tricky to understand, or a bit curious in terms of design. So I hope this deep dive into how that feature works and was implemented was helpful. If it's still a hazy and unclear feel free to reach out over [Matrix](https://matrix.to/#/@brendan:abolivier.bzh) or [Twitter](https://twitter.com/BrenAbolivier)! 🙂
 
-Note that this isn't a technical documentation on how to use the feature, therefore I didn't specifically outlined the limitations, important bits of config, etc. related to this feature, but instead spread them through the post. If you just need to make it work and skim across its shortcomings then [the documentation](https://github.com/matrix-org/synapse/blob/develop/docs/message_retention_policies.md) is the right place to look.
+Note that this isn't a technical documentation on how to use the feature, therefore I didn't specifically outline the limitations, important bits of config, etc. related to this feature, but instead spread them through the post. If you just need to make it work and skim across its shortcomings then [the documentation](https://github.com/matrix-org/synapse/blob/develop/docs/message_retention_policies.md) is the right place to look.
 
 I sure had fun writing this post, it was nice revisiting one of my first big features in Synapse, and it motivated me to look with fresh new eyes into all of the implementation's details (and even find a few bugs), which was welcome 😀 Huge thanks to [Thibaut](https://github.com/CromFr), [Andrew](https://github.com/anoadragon453) and [Dan](https://github.com/callahad) for proofreading it!
 
