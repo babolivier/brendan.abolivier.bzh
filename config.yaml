@@ -10,6 +10,7 @@ params:
   name: "Brendan Abolivier"
   author: "Brendan Abolivier"
   twitter: "BrenAbolivier"
+  matrix: "@brendan:abolivier.bzh"
   email: "hello@brendanabolivier.com"
   pgp: "E1D4 B745 7A82 9D77 1FBA 8CAC E860 1572 74A2 8D7E"
   keyserver: "pgp.key-server.io"
