@@ -1,4 +1,5 @@
 *.wip
 *.txt
 
+themes/*
 public
