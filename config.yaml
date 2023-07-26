@@ -18,7 +18,7 @@ params:
   creativeCommons: "by-sa"
   mastodon:
     username: babolivier
-    instance: mastodon.social
+    instance: octodon.social
   git:
     url: https://github.com/babolivier
     username: babolivier
