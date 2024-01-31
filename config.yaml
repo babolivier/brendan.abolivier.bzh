@@ -17,8 +17,8 @@ params:
   copyright: "(CC-BY-SA) Brendan Abolivier"
   creativeCommons: "by-sa"
   mastodon:
-    username: babolivier
-    instance: mastodon.social
+    username: brendan
+    instance: social.abolivier.bzh
   git:
     url: https://github.com/babolivier
     username: babolivier
