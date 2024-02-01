@@ -18,7 +18,9 @@ params:
   creativeCommons: "by-sa"
   mastodon:
     username: brendan
-    instance: social.abolivier.bzh
+    instance:
+      baseURL: https://social.abolivier.bzh
+      display: abolivier.bzh
   git:
     url: https://github.com/babolivier
     username: babolivier
