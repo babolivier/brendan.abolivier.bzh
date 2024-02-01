@@ -3,3 +3,6 @@
 
 themes/*
 public
+
+.hugo_build.lock
+.vscode

@@ -135,10 +135,13 @@ feature-oriented work. I helped research existing code architecture, and design
 part of the project's future. As the work to integrate Rust into the code base
 (led by [Ikey](https://fosstodon.org/@ikey)) started to come to a close, and my
 own work started to gravitate around it, I got to build on top of it to create
-some documentation and code infrastructure that will help Thunderbird developers
-for year to come. Being able to have this kind of impact on a project that
-matters so much to me, within barely more than 6 months on the job, is something
-I'm immensely proud of.
+some
+[documentation](https://source-docs.thunderbird.net/en/latest/rust/index.html)
+and [code](https://searchfox.org/comm-central/source/rust/xpcom_async)
+[infrastructure](https://searchfox.org/comm-central/source/rust/moz_http) that
+will help Thunderbird developers for year to come. Being able to have this kind
+of impact on a project that matters so much to me, within barely more than 6
+months on the job, is something I'm immensely proud of.
 
 (pssst, if you want to hear more about this, we're giving a
 [talk](https://fosdem.org/2024/schedule/event/fosdem-2024-2469-thunderbird-how-to-exchange-rot-for-rust/)
