@@ -31,6 +31,7 @@ Among those, we picked an API called [EWS](https://learn.microsoft.com/en-us/exc
 * EWS is not being retired on on-premises infrastructure, where Graph is unavailable. We want to support as many environments as possible, so we'll need to support EWS regardless.
 * EWS is already supported by at least one well-established open-source email application: [Evolution](https://en.wikipedia.org/wiki/GNOME_Evolution), and being able to use it as a reference when Microsoft's documentation was lacking helped us a few times.
 * EWS is a more appealing API for a native desktop application, specifically regarding notifications. While Graph does support live notifications for e.g. incoming messages, it's heavily based on push notifications, which require the kind of centralised infrastructure a web application would have. On the other hand, EWS supports pull notifications, where the client holds an open connection to the server and receives updates as they becomes available.
+
 Note that for convenience, I'll refer to these APIs as "protocols" from now on. While they're not really at the same layer of the OSI model as, say, IMAP or SMTP, they sit at the same level from an implementation point of view.
 # Open + closed = ... open?
 
