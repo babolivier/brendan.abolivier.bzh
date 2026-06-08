@@ -15,7 +15,7 @@ thumbnail: /exchange-pt-2/thumbnail.png
 
 Hey there, me again!
 
-This is the second and last part in a duology around [Thunderbird](https://www.thunderbird.net)'s project to support Microsoft Exchange. A few weeks ago, I [published a blog post](https://brendan.abolivier.bzh/exchange-pt-1/) that shared some of the project's behind the scenes (as well some of my personal thoughts), in which I was focusing a lot on the high-level picture and how we defined a direction for the project.
+This is the second and last part in a duology around [Thunderbird](https://www.thunderbird.net)'s project to support Microsoft Exchange. About a month ago, I [published a blog post](https://brendan.abolivier.bzh/exchange-pt-1/) that shared some of the project's behind the scenes (as well some of my personal thoughts), in which I was focusing a lot on the high-level picture and how we defined a direction for the project.
 
 However, that article covers discussions that happened mostly around the start of the project, and didn't get very technical. Although some of these conversations might have spanned over a longer period of time, the more practical, day-to-day progress of the project isn't really mentioned - this is what this second part is for!
 
