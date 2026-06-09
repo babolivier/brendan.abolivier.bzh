@@ -29,7 +29,7 @@ We started by defining a baseline for what our protocol client needed to do. EWS
 
 - send out network traffic, and do so asynchronously
 - build HTTP request and receive responses
-- serialise serialise request data into XML, and deserialise XML responses
+- serialise request data into XML, and deserialise XML responses
 
 In addition, we needed whatever solutions to those requirements to be low on boilerplate. EWS lists many operations and even more types, and by this point we didn't have such a precise idea of how many of those we would need.
 
